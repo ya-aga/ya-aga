@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hey, I’m **Yazid**
 
-<!--
-**ya-aga/ya-aga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ✈️ Aeronautical Engineer @ Safran  
+EAeronautical Engineer helping keep things in the sky running smoothly — and efficiently.
 
-Here are some ideas to get you started:
+### 🎓 Background  
+I hold a **degree in Embedded Systems & Software Development**, blending low-level engineering with practical software craftsmanship.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 What I Do  
+- Develop **embedded software** and contribute to **avionics systems**  
+- Build **internal tools** that make life easier for teams across the company  
+- Automate, streamline, and simplify workflows whenever possible  
+- Code for work, code for fun — the hobby just became a career
+
+### 🛠️ Tech Playground  
+- Embedded C / C++  
+- Python, JavaScript  
+- Systems engineering & architecture  
+- Tooling, RPA automation, and custom dev utilities
