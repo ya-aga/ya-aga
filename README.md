@@ -1,7 +1,7 @@
 # 👋 Hey, I’m **Yazid**
 
-### ✈️ Aeronautical Engineer @ Safran  
-EAeronautical Engineer helping keep things in the sky running smoothly — and efficiently.
+### ✈️ Aeronautical Engineer @ Safran 
+Aeronautical Engineer helping keep things in the sky running smoothly — and efficiently.
 
 ### 🎓 Background  
 I hold a **degree in Embedded Systems & Software Development**, blending low-level engineering with practical software craftsmanship.
